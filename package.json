@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+      "@apollo/client": "^3.3.18",
+      "graphql": "^15.5.0",
+      "isomorphic-fetch": "^3.0.0",
+      "tates": "^0.3.4"
+    },
+    "type": "module"
+  }
