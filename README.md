@@ -6,6 +6,12 @@ Proxy is what became of the original `Object.observe` concept. Proxies are like 
 ## About Me
 I'm Will Johnston. I have been writing code since I was about 10 years old. I got my first job writing Python in High School and developed a true passion for software development from that job. From then I've spent many years working mostly on web and backend software development. I got interested in Proxies because I have done a fair amount of .NET programming and always loved the concept of data binding and being able to stealthily observe changes to objects.
 
+- Follow me on Twitter: [@wjohnsto](https://twitter.com/wjohnsto)
+- Follow me on GitHub: [@wjohnsto](https://github.com/wjohnsto)
+- Check out [tates](https://github.com/wjohnsto/tates) and [react-tates](https://github.com/wjohnsto/react-tates)
+- Learn about [Headless WordPress](https://developers.wpengine.com/) and [join the Discord community](https://discord.gg/J2khkF9XYK)
+- Listen to the [Decode podcast](https://developers.wpengine.com/podcast)
+
 ## Proxy Methods
 When using Proxy you can use the following methods to setup traps:
 
